@@ -1,5 +1,31 @@
 # Changelog
 
+## [0.2.1](https://github.com/browser-actions/release-firefox-addon/compare/release-firefox-addon-v0.2.0...release-firefox-addon-v0.2.1) (2024-07-26)
+
+
+### Bug Fixes
+
+* fix request error ([#21](https://github.com/browser-actions/release-firefox-addon/issues/21)) ([9eb188a](https://github.com/browser-actions/release-firefox-addon/commit/9eb188a8ce93a82ba38960e99c508026422121ad))
+
+## [0.2.0](https://github.com/browser-actions/release-firefox-addon/compare/release-firefox-addon-v0.1.4...release-firefox-addon-v0.2.0) (2024-07-23)
+
+
+### Features
+
+* bump node version ([#18](https://github.com/browser-actions/release-firefox-addon/issues/18)) ([8c22321](https://github.com/browser-actions/release-firefox-addon/commit/8c2232194688b81a0f775e015109ff02f75812f2))
+
+
+### Bug Fixes
+
+* sign published tags and commits ([#16](https://github.com/browser-actions/release-firefox-addon/issues/16)) ([9ae1f08](https://github.com/browser-actions/release-firefox-addon/commit/9ae1f0888f31dbe7151168c2e6f237214053bc79))
+
+## [0.1.4](https://github.com/browser-actions/release-firefox-addon/compare/release-firefox-addon-v0.1.3...release-firefox-addon-v0.1.4) (2024-07-17)
+
+
+### Bug Fixes
+
+* update source upload to use license var ([#12](https://github.com/browser-actions/release-firefox-addon/issues/12)) ([b892ced](https://github.com/browser-actions/release-firefox-addon/commit/b892ced1f2c353b3cd5e73d404e2e872bb0fc7b9))
+
 ## [0.1.3](https://github.com/browser-actions/release-firefox-addon/compare/release-firefox-addon-v0.1.2...release-firefox-addon-v0.1.3) (2023-07-08)
 
 
